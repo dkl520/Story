@@ -10,10 +10,12 @@ article{
 	background-color: white;
 	padding: 20px;
 }
+#logo,#middle,#right,dd img{
+	border:solid #999 1px;
+}
 #logo{
 	width: 200px;
 	float: left;
-	border:solid #999 1px;
 }
 figcaption{
 	position: absolute;
@@ -25,9 +27,17 @@ figcaption{
 #middle{	
 	margin-left: 260px;
 	margin-right: 150px;
-	border:solid #999 1px;
+}
+#middle p{
+	text-indent: 2em;
+	line-height: 150%;
 }
 #right{
 	float: right;
-	border:solid #999 1px;
+}
+h1{
+	text-align: center;
+}
+dd{
+	padding: 7px;
 }
