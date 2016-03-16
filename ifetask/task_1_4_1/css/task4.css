@@ -1,0 +1,28 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+main{
+	width: 400px;
+	height: 200px;
+	background-color: #ccc;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -100px;
+	margin-left: -200px;
+}
+#rad1,#rad2{
+	position: absolute;
+	background-color: #fc0;
+	width:50px;
+	height: 50px;
+}
+#rad1{
+	border-bottom-right-radius: 100%;
+}
+#rad2{
+	left: 350px;
+	top:150px;
+	border-top-left-radius: 100%;
+}
