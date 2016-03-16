@@ -1,0 +1,33 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #eee;
+	padding: 20px;
+}
+article{
+	background-color: white;
+	padding: 20px;
+}
+#logo{
+	width: 200px;
+	float: left;
+	border:solid #999 1px;
+}
+figcaption{
+	position: absolute;
+	left: 140px;
+	top: 40px;
+	font-weight:bold;
+	font-size: 14px;
+}
+#middle{	
+	margin-left: 260px;
+	margin-right: 150px;
+	border:solid #999 1px;
+}
+#right{
+	float: right;
+	border:solid #999 1px;
+}
