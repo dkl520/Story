@@ -299,6 +299,9 @@ dd{
 	font-size: 72px;
 	font-family: "黑体";
 	color: #d45d5c;
+	position: relative;
+	left: -30px;
+
 }
 #p_last{
 	font-size: 14px;
