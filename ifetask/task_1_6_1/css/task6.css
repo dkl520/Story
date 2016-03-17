@@ -44,7 +44,7 @@ header{
 #header_line{
 	width: 892px;
 	height: 2px;
-	background-color: #938e80;
+	background-color: #938e8c;
 }
 #header_img{
 	width: 641px;
@@ -344,4 +344,16 @@ dd{
 }
 #div_last{
 	overflow: auto;
+}
+footer div{
+	margin-top: 20px;
+	width: 892px;
+	height: 1px;
+	background-color: #938e8c;
+}
+footer p{
+	float: right;
+	font-size: 12px;
+	color: #d45d5c;
+	font-family: "黑体";
 }
